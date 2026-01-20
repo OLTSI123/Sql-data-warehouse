@@ -1,2 +1,4 @@
 # Sql-data-warehouse
-Sql warehouse server
+
+**Data warehouse project**
+Includes warehousing and analytics solutions. Building warehouse and generating insights. 
