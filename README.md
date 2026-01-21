@@ -7,6 +7,8 @@ using a layered architecture (Bronze, Silver, Gold) to support analytics and rep
 The project is based on the tutorial by [https://www.youtube.com/watch?v=2jGhQpbzHes], but fully implemented and adapted
 locally using SQL Server.
 
+Sample data provided for demonstration purposes.
+
 ## Data Model
 - Fact table: `fact_sales`
 - Dimension tables:
